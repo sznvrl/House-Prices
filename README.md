@@ -25,3 +25,4 @@ You can access the data from this link:  https://www.kaggle.com/c/house-prices-a
 ## Results<a name="results"></a>
 
 According to result, the sales prices are graphed. Average sales prices were calculated according to the ages of the houses. Features with high correlation coefficient were found.
+For details https://medium.com/@sezenvural9/where-are-house-prices-going-28360c6f053d
